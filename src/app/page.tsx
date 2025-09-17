@@ -212,7 +212,7 @@ function HomeClient() {
             <>
               {/* 继续观看 */}
               <ContinueWatching />
-
+<script defer src="https://kanban.qilian.dpdns.org/tracker.min.js" data-website-id="奇廉TV"></script>
               {/* 热门电影 */}
               <section className='mb-8'>
                 <div className='mb-4 flex items-center justify-between'>
