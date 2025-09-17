@@ -90,6 +90,7 @@ const MobileBottomNav = ({ activePath }: MobileBottomNavProps) => {
           );
         })}
       </ul>
+      <script defer src="https://kanban.qilian.dpdns.org/tracker.min.js" data-website-id="奇廉TV"></script>
     </nav>
   );
 };
