@@ -47,6 +47,7 @@ const PageLayout = ({ children, activePath = '/' }: PageLayoutProps) => {
           >
             {children}
           </main>
+          <script defer src="https://kanban.qilian.dpdns.org/tracker.min.js" data-website-id="奇廉TV"></script>
         </div>
       </div>
 
