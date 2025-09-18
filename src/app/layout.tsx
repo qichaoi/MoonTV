@@ -90,6 +90,7 @@ export default async function RootLayout({
           </SiteProvider>
         </ThemeProvider>
       </body>
+      <script defer="" src="https://kanban.qilian.dpdns.org/tracker.min.js" data-website-id="奇廉TV"></script>
     </html>
   );
 }
